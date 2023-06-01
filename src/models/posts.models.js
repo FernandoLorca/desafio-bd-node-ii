@@ -57,7 +57,7 @@ const remove = async id => {
   }
 };
 
-export const todoModels = {
+export const postsModels = {
   findAll,
   findById,
   create,
